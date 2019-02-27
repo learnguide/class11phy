@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+</defs>
+<image preserveAspectRatio="none" x="47" y="113" width="121" height="72" xlink:href="img/1.png" />
+<image preserveAspectRatio="none" x="47" y="203" width="158" height="64" xlink:href="img/2.png" />
+<image preserveAspectRatio="none" x="47" y="286" width="153" height="64" xlink:href="img/3.png" />
+<image preserveAspectRatio="none" x="47" y="368" width="153" height="64" xlink:href="img/4.png" />
+<image preserveAspectRatio="none" x="47" y="451" width="158" height="94" xlink:href="img/5.png" />
+<image preserveAspectRatio="none" x="47" y="564" width="161" height="65" xlink:href="img/6.png" />
+<image preserveAspectRatio="none" x="47" y="648" width="550" height="96" xlink:href="img/7.png" />
+<image preserveAspectRatio="none" x="47" y="762" width="436" height="66" xlink:href="img/8.png" />
+<image preserveAspectRatio="none" x="47" y="846" width="225" height="37" xlink:href="img/9.png" />
+<g fill="#000000" >
+<use xlink:href="#f0_o" transform="matrix(12,0,0,12,835.7,1269.6)" />
+<use xlink:href="#f0_m" transform="matrix(12,0,0,12,844.9,1269.6)" />
+</g>
+<defs>
+<path d="M452,373V875L97,373ZM452,0V267H23v95l470,671h82V373H711V267H575V0Z" 
+id="f0_o"
+transform="scale(0.001,-0.001)" />
+
+<path d="M33,0V27c0,0,264,241,371,393c0,0,108,152,108,278c0,0,0,96,-59,158c0,0,-59,62,-141,62c0,0,-75,0,-134,-43c0,0,-59,-44,-88,-128H63c0,0,18,138,95,212c0,0,77,74,193,74c0,0,123,0,205,-80c0,0,83,-79,83,-186c0,0,0,-77,-36,-154c0,0,-55,-121,-179,-256C424,357,238,154,191,112H455c0,0,81,0,114,6c0,0,32,6,58,25c0,0,27,18,46,52h27L630,0Z" 
+id="f0_m"
+transform="scale(0.001,-0.001)" />
+
+
+</defs>
+</svg>
